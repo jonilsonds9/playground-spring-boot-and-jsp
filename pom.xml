@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.jonilson</groupId>
 	<artifactId>playground</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>war</packaging>
 	<name>playground</name>
 	<description>Project for Spring Boot and JSP</description>
